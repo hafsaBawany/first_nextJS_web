@@ -1,0 +1,15 @@
+.contacthead{
+    background-color: #4a511c;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin: 40px;
+}
+.contactpara{
+    font-size: large;
+}
+.contactdiv{
+    background-color: rgb(205, 210, 209);
+    margin: 40px;
+    padding: 10px;
+}

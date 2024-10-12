@@ -1,0 +1,15 @@
+.abouthead{
+    background-color: #451255;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin: 40px;
+}
+.aboutpara{
+    font-size: large;
+}
+.aboutdiv{
+    background-color: rgb(205, 210, 209);
+    margin: 40px;
+    padding: 10px;
+}

@@ -1,0 +1,29 @@
+
+body {
+ background-color: white;
+    color: #333;
+}
+ .MainPage {
+    padding: 20px;
+}
+
+.mainNav {
+    background-color: #0651a1; 
+    text-align: center;
+    color: white;
+    padding: 8px 16px;
+}
+.mainNav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+.MainContent {
+    text-align: center;
+    margin-top: 50px;
+}
+.myIntro .intro {
+    font-size: 30px;
+    color: #0651a1;
+    margin-bottom: 10px;
+}

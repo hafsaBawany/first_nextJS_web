@@ -1,0 +1,15 @@
+.homehead{
+    background-color: #104a52;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin: 40px;
+}
+.homepara{
+    font-size: large;
+}
+.homediv{
+    background-color: rgb(205, 210, 209);
+    margin: 40px;
+    padding: 10px;
+}

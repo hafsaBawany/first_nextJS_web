@@ -1,0 +1,15 @@
+.servicehead{
+    background-color: #5d401a;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin: 40px;
+}
+.servicepara{
+    font-size: large;
+}
+.servicediv{
+    background-color: rgb(205, 210, 209);
+    margin: 40px;
+    padding: 10px;
+}
